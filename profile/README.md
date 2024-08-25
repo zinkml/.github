@@ -7,7 +7,7 @@
 	<span> &bull; </span>
 	<a href="https://www.youtube.com/@ZinkMLOfficial">Youtube</a>
 	<br />
-	<img width="400px" alt="image" src="https://github.com/zinkml/.github/blob/main/profile/logo-name-subtitle.png">
+	<img width="700px" alt="image" src="https://github.com/zinkml/.github/blob/main/profile/logo-name-subtitle.png">
 </h3>
 </br>
 </br>
