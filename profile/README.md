@@ -6,11 +6,13 @@
 	<a href="https://app.zinkml.com/signup">Application</a>
 	<span> &bull; </span>
 	<a href="https://www.youtube.com/@ZinkMLOfficial">Youtube</a>
-	<br />
+</h3>
+
+<h3 align="center">
 	<img width="700px" alt="image" src="https://github.com/zinkml/.github/blob/main/profile/logo-name-subtitle.png">
 </h3>
-</br>
-</br>
+<br/>
+<br/>
 
 ---
 
@@ -23,8 +25,8 @@ ZinkML targets the data science industry with a mission to make machine learning
 <h3 align="center">
 	<img width="700px" alt="image" src="https://github.com/zinkml/.github/blob/main/profile/Banner.png">
 </h3>
-</br>
-</br>
+<br/>
+<br/>
 
 ---
 
