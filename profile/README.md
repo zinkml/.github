@@ -16,9 +16,9 @@
 
 ---
 
-Hi there! Welcome to ZinkML. [ZinkML](https://zinkml.com) Data Science Platform boosts productivity through its code-less, end-to-end, collaborative platform. This state-of-the-art platform empowers innovators with visual tools that allow rapid experimentation to build and deploy machine learning use cases.
+Hi there! Welcome to ZinkML. [ZinkML](https://zinkml.com) is a zero-code data science platform that targets the data science industry with the mission of democratizing machine learning. It provides a visual and interactive interface, eliminating the need for complex coding. This allows users to focus on creating data science solutions rather than wrestling with data quality issues.
 
-ZinkML targets the data science industry with a mission to make machine learning accessible to everyone. Our platform offers a zero-code solution, allowing users to build and manage data science workflows through a visual and interactive interface. This eliminates the need for complex coding, potentially bringing data science capabilities to a wider range of users.
+Our platform streamlines the entire data science workflow, including data ingestion, cleaning, processing, modeling, deployment, and analysis. This facilitates collaboration between technical and non-technical stakeholders and enables users to build and deploy models quickly and easily. In essence, Zinkml aims to make data science accessible to a wider range of users by removing the coding barrier.
 
 ---
 
